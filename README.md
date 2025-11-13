@@ -2,6 +2,8 @@
 
 A fun Flappy Bird-style game featuring a golden retriever fetching tennis balls!
 
+**Play the game here:** https://brettherdthat.github.io/flappy-fetch/
+
 ## About
 
 Navigate your golden retriever through green pipe obstacles while collecting tennis balls for bonus points. The game starts easy and gradually increases in difficulty as your score goes up.
